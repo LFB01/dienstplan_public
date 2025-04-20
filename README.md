@@ -105,7 +105,7 @@ Beinhaltet die vollständige Verknüpfungslogik zwischen Diensten.
 |--------------------|------------------------------------|------------------------------------|
 | JavaFX-UI          | in Arbeit                          | Viele Features nur per Code sichtbar |
 | Platz-Regelprüfung | in Planung                         | Dienste vollständig, Plätze nahezu |
-| Regel-Korrektur    | Komplte für Dienste, fehlend für Plätze | nur teilweise automatisiert        |
+| Regel-Korrektur    | Komplett für Dienste, fehlend für Plätze | nur teilweise automatisiert        |
 | Export / Import    | fehlt                              | GUI für Ein-/Ausgabe noch rudimentär |
 | Beta-Test          | bald                             | Erste Tests mit Kolleg:innen geplant |
 
